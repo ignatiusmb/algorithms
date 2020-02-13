@@ -1,1 +1,10 @@
+# Ignore all extension-less files
+*
+!/**/
+!*.*
+
+# Java compiled classes
 *.class
+
+# Workspace specific
+.vscode
